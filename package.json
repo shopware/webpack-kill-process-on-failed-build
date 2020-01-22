@@ -1,0 +1,8 @@
+{
+  "name": "@shopware-ag/webpack-kill-process-on-failed-build",
+  "version": "1.0.0",
+  "description": "Webpack plugin which kills the process when a build fails",
+  "main": "index.js",
+  "author": "klarstil",
+  "license": "MIT"
+}
